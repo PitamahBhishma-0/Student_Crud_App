@@ -1,0 +1,10 @@
+# Student_Crud_App
+Student Management System
+Tools and technology:
+JAVA 17 SE
+DATA JPA(HIBERNATE)
+MYSQL
+THYMELEAF(VIEW LAYER)
+ECLIPSE STS IDE
+MAVEN
+BOOTSTRAP
