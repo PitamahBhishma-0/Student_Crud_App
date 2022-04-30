@@ -4,10 +4,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
 import com.gaurav.std_ms.entity.Student;
 import com.gaurav.std_ms.repository.StudentRepo;
-
+@SuppressWarnings("unused")
 @SpringBootApplication
 public class StudentMgmtSystemApplication implements CommandLineRunner {
 
